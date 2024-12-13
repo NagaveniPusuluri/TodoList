@@ -32,18 +32,6 @@
     width: auto;
 }
 
-
-.remove {
-    background-color: red;
-    margin: 40px;
-    padding: 10px;
-    border: none;
-    border-radius: 7px;
-    font-size: 2rem;
-    color: white;
-    width: auto;
-}
-
 .add {
     background-color: green;
     margin: 40px;
@@ -81,9 +69,13 @@
         padding: 10px 0;
     }
 
-    .input-name,
-    .add,
-    .remove {
+    .input-name {
+        padding: 3px;
+        margin-top: 30px;
+        width:200px
+    }
+    .add
+    {
         padding: 3px;
         margin-top: 30px;
         width: auto;
