@@ -52,6 +52,7 @@
     color: white;
     background-color: #384f1d;
     list-style-type: none;
+    min-height: 400px;
 }
 
 .list {
